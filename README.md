@@ -47,4 +47,7 @@ Console output demonstrates the result of each challenge.
 2. Open a terminal in the project folder.
 3. Run in Node.js:
    ```bash
-   node challenges.js
+    cd Solution
+    node script.js
+
+or by use console in Solution/index.html
